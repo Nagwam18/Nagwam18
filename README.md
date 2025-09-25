@@ -19,7 +19,7 @@ Collaborative, results-oriented, and dedicated to solving meaningful problems th
 ## 🎓 Education
 
 - 📍 **ITI – 9-Month Diploma in AI Track**  
-  *Information Technology Institute, Mansoura Branch*  
+  *Information Technology Institute*  
   _Oct 2024 – July 2025_
 
 - 🏫 **Bachelor’s in Computers and Informatics – Medical Informatics Dept.**  
