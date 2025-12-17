@@ -9,10 +9,9 @@
 ---
 ## 🧠 About Me
 
-AI & Machine Learning Engineer with strong experience in applied machine learning, data analytics, and generative AI.  
-Skilled in developing scalable AI solutions with a focus on automation and real-world impact.  
-Proficient in TensorFlow, Scikit-learn, and deep learning tools.  
-Collaborative, results-oriented, and dedicated to solving meaningful problems through data-driven approaches.
+AI Engineer specializing in multi-agent systems, LLM integration, and intelligent automation.
+Skilled in designing and deploying end-to-end AI solutions across NLP and predictive modeling, with strong expertise in Python and deep learning frameworks.
+Passionate about advancing AI and automation to deliver scalable, autonomous, and user-centric systems.
 
 ---
 
@@ -30,6 +29,10 @@ Collaborative, results-oriented, and dedicated to solving meaningful problems th
 
 ## 🚀 Internships
 
+- **Gen AI Engineer Intern at CORELIA**
+    - Built an AI system to auto-generate PowerPoint presentations using LLaMA 3, FastAPI, Dash.
+    - Developed a candidate CV and interview assessment platform leveraging LLMs and multi-agent workflows.
+    - Developed the Voice-to-Insights  system using Faster-Whisper and Qwen for transcription,summarization and structured insights extraction.
 - **Machine Learning Trainee**, Digital Egypt Pioneers Initiative (Apr 2024 – Oct 2024)  
 - **Data Analyst Track**, ITI-Tec-Leaps (Aug 2022 – Feb 2023)
 
@@ -37,32 +40,32 @@ Collaborative, results-oriented, and dedicated to solving meaningful problems th
 
 ## 💻 Technical Skills
 
-- **Languages:** Python, C++, C  
-- **ML & DL Frameworks:** TensorFlow, Scikit-learn, Hugging Face, OpenCV  
-- **Data Tools:** Pandas, NumPy, Power BI, Tableau, Excel  
-- **Databases:** MySQL, MongoDB, SQL Server  
-- **Other:** Linux, OOP, Data Structures & Algorithms
-
+- **Programming & AI Frameworks:** Python (Pandas, NumPy, TensorFlow, PyTorch, Keras, Scikit-learn), NLP 
+- **Agentic AI & LLMs:** Building autonomous AI agents and multi-agent workflows, using LLMs and CrewAI and prompt engineering for optimized outputs.
+- **Machine Learning & Deep Learning:** Regression, Classification, Random Forest, XGBoost, Recommender Systems, CNNs, Transfer Learning, U-Net, ResNet, DenseNet 
+- **Databases & Cloud:** SQL Server, MySQL, MongoDB, AWS
+- **MLOps & Deployment:** FastAPI, GitHub Actions, Docker, MLflow, Airflow, Flask
+- **Visualization:**  Dash,Power BI, Tableau.
 ---
 
 ## 🧪 Projects
 
-- **AI Powered Diet Planner:** Multi-agent AI system with Gemini Flash for fast reasoning  
+- **Auto-Generate Professional PowerPoint Presentations:** End-to-end AI system generating full presentations from a single prompt using
+   LLaMA 3, FastAPI, Dash, and automated PPTX generation
 - **Smart Recruiter Assistant:** Chatbot, CV analyzer, recommender, and dashboard  
-- **Movie Recommendation System:** Memory & model-based filtering using Surprise  
-- **Obesity Risk Prediction:** ML models predicting obesity risks  
-- **Arabic POS Tagging:** Fine-tuned Arabic BERT using token classification  
-- **Lung Image Segmentation & Classification:** U-Net with ResNet, binary classification  
-- **Weather Image Classification:** CNN-based transfer learning with ResNet & DenseNet
-
+- **Job Matching & Candidate Assessment System:** AI-powered recruitment platform leveraging LLMs and multi-agent workflows
+     to evaluate CVs, interviews, skill matching, and candidate scoring
+- **Mobsir – Intelligent Assistive System for the Blind:** Arabic voice-driven AI system for accessibility, including voice assistant,
+     translation, image captioning, face recognition, and Arabic TTS
+- **AI Powered Diet Planner:** Multi-agent AI system using CrewAI and Gemini Flash to generate personalized diet plans through collaborative agent reasoning
 ---
 
 ## 🧑‍💼 Personal Skills
 
-- Analytical and problem-solving mindset  
-- Effective communication and presentation skills  
-- Fast learner, team player, and open to feedback  
-- Highly motivated for remote work opportunities  
+- Analytical and problem-solving mindset. 
+- Passionate about ML research and hands-on experimentation.  
+- Effective communication and teamwork.  
+- Fast learner, adaptable to new technologies.  
 
 ---
 
